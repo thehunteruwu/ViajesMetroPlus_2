@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViajesMetroPlus_V2", "ViajesMetroPlus_V2\ViajesMetroPlus_V2.csproj", "{251DF351-3A51-4149-8712-F737A252635D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViajesMetroPlus_Pruebas", "ViajesMetroPlus_Pruebas\ViajesMetroPlus_Pruebas.csproj", "{F10ADCD2-22D6-493D-9876-E9C0957C854D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251DF351-3A51-4149-8712-F737A252635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251DF351-3A51-4149-8712-F737A252635D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251DF351-3A51-4149-8712-F737A252635D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251DF351-3A51-4149-8712-F737A252635D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10ADCD2-22D6-493D-9876-E9C0957C854D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10ADCD2-22D6-493D-9876-E9C0957C854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10ADCD2-22D6-493D-9876-E9C0957C854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10ADCD2-22D6-493D-9876-E9C0957C854D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334CC485-6092-443F-BABF-67FD2D3300B9}
+	EndGlobalSection
+EndGlobal
